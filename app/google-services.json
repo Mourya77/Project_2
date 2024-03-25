@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303895548003",
+    "project_id": "traffic-alert-1007a",
+    "storage_bucket": "traffic-alert-1007a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303895548003:android:7cbf5758ce6b3b1e3ba856",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cAm9U-6BX_UooiY_xg7fYI4LxMyHD0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

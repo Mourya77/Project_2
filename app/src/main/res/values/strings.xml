@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">login_register</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="upload_pic_u">upload_pic_u</string>
+    <string name="update_email_u">update_email_u</string>
+</resources>
