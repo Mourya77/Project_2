@@ -6,9 +6,7 @@ Group - 206
 **Group Members:**
 Mourya Gunupuru – 22BCE10899
 Sasi Kumar – 22BCE11638
-Venkat Reddy Pasam – 22BCE10647
-Akshat Singh – 22BCE10905
-Vivek Vardhan Althi – 22BCE10549
+
 
 ------------------------------------------------------------------------
 
